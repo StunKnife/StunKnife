@@ -32,9 +32,10 @@ Atualmente estuda **Data Science & Machine Learning** na escola DNC e tem intere
 <p><em>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StunKnife&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StunKnife&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StunKnife&layout=compact"/>
+ 
 </div>
+ 
 
 <h3> Conecte Comigo 🤝🏻 </h3>  
 <p align="center"> 
