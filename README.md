@@ -40,7 +40,13 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC.
   <img align="center" alt="Andressa-html" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Andressa-html" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
+<h3> Software ... 💻 </h3>
  
+<div>
+
+  <img align="center" alt="Andressa-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg"/>
+  <img align="center" alt="Andressa-html" height="50" width="40" src="https://github.com/gsmitheidw/weka/blob/a61fab09f49ef13c6af8016809e0600a884d7438/weka.png"/>
+
  
 </div>
 
