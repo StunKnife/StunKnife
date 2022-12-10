@@ -24,17 +24,7 @@ Atualmente estuda **Data Science & Machine Learning** na escola DNC e tem intere
 
 <a href="mailto:saul.deasouza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saul.deasouza@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-
 </p>
-
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=StunKnife.StunKnife)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-<h3> 🤝🏻 Serviços</h3>
-
-- 🔭 Estatística descritiva
-- 🔍 Testes estatísticos: paramétricos e não paramétricos
-- ⚡ Análise de correlação
-- 🌱 Análise de Regressão e Series Temporais
-- 💬 Machine Learning...
