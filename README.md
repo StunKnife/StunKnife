@@ -5,7 +5,7 @@
  
 Sou **Doutor em Estatística** e **Cientista de Dados** em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial.    
  
-Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho interesse em trabalhar como **Cientista de Dados**.
+Atualmente estudo **Data Science & Machine Learning** na escola DNC.
 
 <h3> Soluções para acadêmicos: tcc, dissertações e teses ... 📊</h3>
  
