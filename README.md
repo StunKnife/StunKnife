@@ -7,16 +7,34 @@ Sou **Doutor em Estatística** e **Cientista de Dados** em um empresa de tecnolo
  
 Atualmente estuda **Data Science & Machine Learning** na escola DNC e tem interesse em trabalhar como **Cientista de Dados**.
  
-# Habilidades
+# Linguagem 💬
  
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+<div>
+ 
+  <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+ 
+</div>
 
-[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+# Habilidades 🛠️
 
-[![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](#)
-[![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#)
+<div>
+  <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 
+</div>
+
+
+ 
+<div>
+ 
+  <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+
+    
+</div>
+ 
+ 
+ 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StunKnife&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StunKnife&layout=compact&theme=tokyonight"/>
