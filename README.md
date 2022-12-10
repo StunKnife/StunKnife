@@ -20,7 +20,7 @@ Atualmente estuda **Data Science & Machine Learning** na escola DNC e tem intere
     
 <a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/saul_asouza/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Azevêdo Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/saul_asouza/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saul_asouza-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:saul.deasouza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saul.deasouza@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
