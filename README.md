@@ -20,11 +20,10 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho inte
 
 <div>
   <img align="center" alt="Andressa-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-  <img align="center" alt="Andressa-html" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+  <img align="center" alt="Andressa-html" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
   <img align="center" alt="Andressa-html" height="40" width="140" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
   <img align="center" alt="Andressa-html" height="40" width="140" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
-  <img align="center" alt="Andressa-html" height="70" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg
-"/>
+  <img align="center" alt="Andressa-html" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
 
 </div>
