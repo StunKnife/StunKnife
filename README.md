@@ -36,7 +36,6 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho inte
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StunKnife&layout=compact"/>
-  <img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
 
 </div>
  
