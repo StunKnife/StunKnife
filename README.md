@@ -6,6 +6,20 @@
 Sou **Doutor em Estatística** e **Cientista de Dados** em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial.    
  
 Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho interesse em trabalhar como **Cientista de Dados**.
+
+<h3> Soluções para acadêmicos: tcc, dissertações e teses ... 📊</h3>
+ 
+ 1. Machine Learning
+ 
+ 2. Análise Descritiva
+ 
+ 3. Inferência Estatística
+ 
+ 4. Análise de Correlação e Regressão
+ 
+ 5. Séries Temporais
+ 
+ 6. Análise de Sobrevivência
  
 <h3> Linguagem ... 💬 </h3>
  
@@ -46,5 +60,4 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho inte
  
  ---
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=StunKnife.StunKnife)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
