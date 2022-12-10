@@ -3,9 +3,9 @@
 
 <p><em>
  
-Sou **Doutor em Estatística** e **Cientista de Dados** em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial    
+Sou **Doutor em Estatística** e **Cientista de Dados** em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial.    
  
-Atualmente estuda **Data Science & Machine Learning** na escola DNC e tem interesse em trabalhar como **Cientista de Dados**.
+Atualmente estudo **Data Science & Machine Learning** na escola DNC e tenho interesse em trabalhar como **Cientista de Dados**.
  
 <h3> Linguagem ... 💬 </h3>
  
