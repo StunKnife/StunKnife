@@ -39,6 +39,7 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC.
   <img align="center" alt="Andressa-html" height="40" width="140" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
   <img align="center" alt="Andressa-html" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Andressa-html" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Andressa-html" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 
 <h3> Software ... 💻 </h3>
  
