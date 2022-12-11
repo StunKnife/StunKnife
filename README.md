@@ -62,8 +62,8 @@ Atualmente estudo **Data Science & Machine Learning** na escola DNC.
 
 <div>
  
-  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StunKnife&theme=dracula"/>
-  <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StunKnife&theme=dracula"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StunKnife&theme=dracula"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StunKnife&theme=dracula"/>
 
  </div>
  
